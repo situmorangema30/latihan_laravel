@@ -21,7 +21,7 @@
       <div class="main-content bg-primary">
         <section class="section">
           <div class="section-header">
-            <h1>LAPORAN</h1>
+            <h1>LAPORAN  TRANSAKSI</h1>
             <div class="section-header-breadcrumb">
               <div class="breadcrumb-item active"><a href="#">Dashboard</a></div>
               <div class="breadcrumb-item text-primary">Laporan</div>
@@ -40,7 +40,7 @@
           <input type="date" name="daritanggal" autofocus="" required="" />
         </div>
         <div>
-          <label>Sampai Tanggal</label>
+          <label> sampai tanggal</label>
          <input type="date" name="sampaitanggal" required=""/>
         </div>
         
